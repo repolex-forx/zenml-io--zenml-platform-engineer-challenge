@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "zenml-io",
+  "repo": "zenml-platform-engineer-challenge",
+  "versions": [
+    {
+      "commit": "d419c3f1c4fc75a2b5dc390176f9b37ff9863083",
+      "parsed_at": "2026-11-08T05:26:56.513889+00:00",
+      "filetree": "filetree/d419c3f1c4fc75a2b5dc390176f9b37ff9863083.nq.gz",
+      "blobs": [
+        "blob/a808109b2860927b144efd96e372b98001aa4e8d.nq.gz",
+        "blob/70cca2f08827c42c70de6540c619d49a0fbae4c9.nq.gz",
+        "blob/b90cbc0a897f94010511ae826c15ec4178b4dc2e.nq.gz",
+        "blob/ce8d5b5db2842de6c1adaf821010576eff0871f3.nq.gz",
+        "blob/8e3e67475ac007aae29e3e46d9ad9e9ac919f0b3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
